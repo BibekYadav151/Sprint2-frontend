@@ -1,4 +1,4 @@
-# Yatri App
+# Sprint 2
 
 A new Flutter project.
 
